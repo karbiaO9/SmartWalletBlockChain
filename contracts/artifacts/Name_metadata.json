@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SmatWalletImpl.sol": "Name"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SmatWalletImpl.sol": {
+			"keccak256": "0xfdd31a17a50ef5bbf00dd1ea84aa1b59421cda6d99710796e94f81c151087b91",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://93da62965b448f78a10517785d96b4ece30f846530bee10210f4e2944a933c30",
+				"dweb:/ipfs/QmbrRHiyzbv6VUKgnLRxpE6RvgxYCRpD8zUsiT5wCRr2vc"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ExampleStruct.sol": "PaymentR"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ExampleStruct.sol": {
+			"keccak256": "0x8ba3a3b05df34d4c7d516cf2253cac7d23d309236cc60e21e93e0995cb9e8961",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://02a43f00a068f7d568e3fb20e48df2b91984e8a3e8bf33770c67cf790a37dae9",
+				"dweb:/ipfs/QmNn38jQuHx3NKoBTBFbopYbpD3iimTZRqAdYYxjYBYDgS"
+			]
+		}
+	},
+	"version": 1
+}
